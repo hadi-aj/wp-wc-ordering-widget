@@ -1,2 +1,2 @@
 # wp-wc-ordering-widget
-Wordpress WooCommerce Ordering Widget
+WordPress WooCommerce Ordering Widget
